@@ -1,0 +1,22 @@
+.banner-container{
+    background-image: url(/src/assets/sparkly\ GIF\ -\ Find\ &\ Share\ on\ GIPHY.gif);
+    display:flex;
+    justify-content: center;
+    padding: 10px;
+    flex-wrap: wrap;
+    height: 170px;
+    width: 800px;
+    border-radius: 8px;
+    border: 15px solid rgb(223, 44, 113);
+    margin: auto;
+    margin-top: 15px;
+}
+
+.imgBanner{
+    width:250px ;
+}
+
+.content{
+    background-color: rgba(255, 255, 255, 0.253);
+    font-weight: bold;
+}

@@ -1,0 +1,22 @@
+.banner{
+    border: 5px solid plum;
+    margin: auto;
+    max-width: 1000px;
+    height: 110px;
+    border-radius: 10px;
+    margin-top: 15px;
+    padding: 5px;
+    /* Flexbox*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.banner h1{
+    color: palevioletred;
+    font-size: 18px;
+}
+
+.banner h2{
+    color:purple
+}

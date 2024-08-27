@@ -1,0 +1,29 @@
+.card-container{
+    display:flex;
+    justify-content: center;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+
+.card{
+    background-color: plum;
+    border: 1px solid #ccc;
+    margin-right:8px;
+    padding: 20px;
+    max-width: 450px;
+    height: 180px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius:12px; 
+}
+
+.card h2{
+    font-size: 20px;
+    padding-bottom:10px;
+    color: rgb(87, 4, 52);
+}
+
+.card p{
+    font-size: 16px;
+    padding-bottom: 10px;
+    color: rgb(87, 4, 52);
+}
